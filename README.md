@@ -150,11 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source computer vision community
 - Contributors to the license plate dataset
 
-## 📞 Contact
-
-**Author**: dvnam1605  
-**Repository**: [Plate-Detection](https://github.com/dvnam1605/Plate-Detection)
-
----
 
 ⭐ If you find this project helpful, please consider giving it a star!
